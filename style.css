@@ -1,0 +1,59 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+
+}
+body{
+    background-color:lightskyblue;
+    height:100vh;
+
+}
+.header{
+    color:white;
+    font-size:32px;
+    margin:20px 0;
+    text-align:center;
+}
+.wrapper{
+    width:500px;
+    margin:0 auto;
+    position:relative;
+}.container{
+    background-color: white;
+    padding:30px;
+    border-radius:8px;
+
+}
+textarea{
+    width:100%;
+    resize:none;
+    border:3px solid green;
+    outline:none; 
+    color:black;
+    border-radius: 5px;
+    background-color: aliceblue;
+
+}
+.count{
+    width:70%;
+    padding:30px;
+    border-radius:5px;
+    text-align:center;
+    display:flex;
+    justify-content: space-around;
+    background-color: black;
+    position:absolute;
+    bottom:3px;
+    left:50%;
+    transform:translateX(-50%)
+
+}
+.count h4{
+    color: white;
+    font-size:30px;
+}
+.count p{
+    color:azure;
+
+}
