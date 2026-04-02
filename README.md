@@ -42,8 +42,6 @@ Output:
      * Characters: 28
 
 ## 📸 Screenshot
-
-(Add your project screenshot here)
 C:\Users\venky\OneDrive\Pictures\Screenshots 1
 ---
 
