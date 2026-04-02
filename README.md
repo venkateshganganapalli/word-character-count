@@ -42,8 +42,7 @@ Output:
      * Characters: 28
 
 ## 📸 Screenshot
-C:\Users\venky\OneDrive\Pictures\Screenshots 1
----
+https://github.com/venkateshganganapalli/word-character-count/blob/74e31bb2f262ee63b5c07422a5e2d1cf95b940e7/Word%20%26%20Character%20count.png
 
 ## 📌 Future Improvements
 
